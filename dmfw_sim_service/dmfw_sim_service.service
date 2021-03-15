@@ -1,0 +1,15 @@
+[Unit]
+Description=DMFW SIM SERVICE
+After=network.target
+
+[Service]
+Type=simple
+LimitMEMLOCK=infinity
+LimitNOFILE=65536
+ExecStart=/opt/dmfw_sim_service/dmfw_sim_service
+WorkingDirectory=/opt/dmfw_sim_service
+TimeoutStartSec=60
+TimeoutStopSec=60
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="658px" preserveAspectRatio="none" style="width:459px;height:658px;" version="1.1" viewBox="0 0 459 658" width="459px" zoomAndPan="magnify"><defs/><g><ellipse cx="239.5" cy="16" fill="#37A77C" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><rect fill="#BBDEFB" height="39.1201" rx="12.5" ry="12.5" style="stroke: #90CAF9; stroke-width: 1.5;" width="76" x="201.5" y="67"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="211.5" y="93.0439">任务创建</text><rect fill="#BBDEFB" height="39.1201" rx="12.5" ry="12.5" style="stroke: #90CAF9; stroke-width: 1.5;" width="76" x="201.5" y="147"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="211.5" y="173.0439">模式切换</text><path d="M6,152 L6,181.1201 A0,0 0 0 0 6,181.1201 L181,181.1201 A0,0 0 0 0 181,181.1201 L181,170.5 L201.14,166.5 L181,162.5 L181,162 L171,152 L6,152 A0,0 0 0 0 6,152 " fill="#90A4AE" style="stroke: #90A4AE; stroke-width: 1.0;"/><path d="M171,152 L171,162 L181,162 L171,152 " fill="#90A4AE" style="stroke: #90A4AE; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="154" x="12" y="173.0439">切换装备到模拟训练模式</text><polygon fill="#FFE0B2" points="239.5,227,251.5,239,239.5,251,227.5,239,239.5,227" style="stroke: #FFCC80; stroke-width: 1.5;"/><rect fill="#BBDEFB" height="39.1201" rx="12.5" ry="12.5" style="stroke: #90CAF9; stroke-width: 1.5;" width="104" x="129.5" y="312"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="139.5" y="338.0439">添加部分想定</text><rect fill="#BBDEFB" height="39.1201" rx="12.5" ry="12.5" style="stroke: #90CAF9; stroke-width: 1.5;" width="90" x="194.5" y="392"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="204.5" y="418.0439">编辑并存储</text><rect fill="#BBDEFB" height="39.1201" rx="12.5" ry="12.5" style="stroke: #90CAF9; stroke-width: 1.5;" width="90" x="253.5" y="312"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="263.5" y="338.0439">创建新想定</text><rect fill="#BBDEFB" height="39.1201" rx="12.5" ry="12.5" style="stroke: #90CAF9; stroke-width: 1.5;" width="90" x="194.5" y="472"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="204.5" y="498.0439">目标初始化</text><path d="M305,477 L305,487.5 L284.57,491.5 L305,495.5 L305,506.1201 A0,0 0 0 0 305,506.1201 L452,506.1201 A0,0 0 0 0 452,506.1201 L452,487 L442,477 L305,477 A0,0 0 0 0 305,477 " fill="#90A4AE" style="stroke: #90A4AE; stroke-width: 1.0;"/><path d="M442,477 L442,487 L452,487 L442,477 " fill="#90A4AE" style="stroke: #90A4AE; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="126" x="311" y="498.0439">初始化装备电子目标</text><rect fill="#BBDEFB" height="39.1201" rx="12.5" ry="12.5" style="stroke: #90CAF9; stroke-width: 1.5;" width="76" x="201.5" y="552"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="211.5" y="578.0439">光电引导</text><ellipse cx="239.5" cy="642" fill="none" rx="10" ry="10" style="stroke: #F6363F; stroke-width: 1.0;"/><ellipse cx="240" cy="642.5" fill="#F6363F" rx="6" ry="6" style="stroke: none; stroke-width: 1.0;"/><!--MD5=[7bae856f11626092d8439cb9aeb59874]
+link start to 任务创建--><path d="M239.5,26.24 C239.5,35.31 239.5,49.54 239.5,61.78 " fill="none" id="start-to-任务创建" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="239.5,66.88,243.5,57.88,239.5,61.88,235.5,57.88,239.5,66.88" style="stroke: #1565C0; stroke-width: 1.0;"/><!--MD5=[ef3da34791e4f693e4d942d897507233]
+link 任务创建 to 模式切换--><path d="M239.5,106.38 C239.5,117.02 239.5,130.4 239.5,141.74 " fill="none" id="任务创建-to-模式切换" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="239.5,146.79,243.5,137.79,239.5,141.79,235.5,137.79,239.5,146.79" style="stroke: #1565C0; stroke-width: 1.0;"/><!--MD5=[1c1878bd634bb1a0eddaf94265c02892]
+link 模式切换 to #10--><path d="M239.5,186.02 C239.5,197 239.5,210.8 239.5,221.42 " fill="none" id="模式切换-to-#10" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="239.5,226.65,243.5,217.65,239.5,221.65,235.5,217.65,239.5,226.65" style="stroke: #1565C0; stroke-width: 1.0;"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="124.0437" y="215.9313">加载往期想定？</text><!--MD5=[0d7ac47c9dd85fe0a36e2c50a6dc94ec]
+link #10 to 添加部分想定--><path d="M235.14,246.8 C227.01,259.49 209.19,287.3 196.31,307.38 " fill="none" id="#10-to-添加部分想定" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="193.48,311.8,201.6901,306.3599,196.1672,307.5835,194.9436,302.0605,193.48,311.8" style="stroke: #1565C0; stroke-width: 1.0;"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="9" x="220.5" y="288.0439">Y</text><!--MD5=[778c51b32d01e4ba6ef87cdab71857c6]
+link 添加部分想定 to 编辑并存储--><path d="M195.54,351.38 C203.66,362.3 213.94,376.13 222.51,387.66 " fill="none" id="添加部分想定-to-编辑并存储" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="225.59,391.79,223.4505,382.1763,222.6152,387.7712,217.0204,386.936,225.59,391.79" style="stroke: #1565C0; stroke-width: 1.0;"/><!--MD5=[24140b5a7a6fd3b6bdcffd61fae92b2a]
+link #10 to 创建新想定--><path d="M243.93,246.8 C252.21,259.49 270.34,287.3 283.43,307.38 " fill="none" id="#10-to-创建新想定" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="286.31,311.8,284.7461,302.0761,283.5795,307.6114,278.0443,306.4449,286.31,311.8" style="stroke: #1565C0; stroke-width: 1.0;"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="9" x="274.5" y="288.0439">N</text><!--MD5=[2d04f17df6d1b961ccc380e0b690bb2d]
+link 创建新想定 to 编辑并存储--><path d="M284.22,351.38 C275.96,362.3 265.5,376.13 256.78,387.66 " fill="none" id="创建新想定-to-编辑并存储" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="253.65,391.79,262.2691,387.0245,256.666,387.802,255.8884,382.1989,253.65,391.79" style="stroke: #1565C0; stroke-width: 1.0;"/><!--MD5=[bc0e02b8fa78e28ccf89c9588ac7790c]
+link 编辑并存储 to 目标初始化--><path d="M239.5,431.38 C239.5,442.02 239.5,455.4 239.5,466.74 " fill="none" id="编辑并存储-to-目标初始化" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="239.5,471.79,243.5,462.79,239.5,466.79,235.5,462.79,239.5,471.79" style="stroke: #1565C0; stroke-width: 1.0;"/><!--MD5=[0c8cdbc6a3d658a688f1d3f018ff88f0]
+link 目标初始化 to 光电引导--><path d="M239.5,511.38 C239.5,522.02 239.5,535.4 239.5,546.74 " fill="none" id="目标初始化-to-光电引导" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="239.5,551.79,243.5,542.79,239.5,546.79,235.5,542.79,239.5,551.79" style="stroke: #1565C0; stroke-width: 1.0;"/><!--MD5=[ff1cdbe5c617ea6152cda5b9122b4956]
+link 光电引导 to end--><path d="M239.5,591.22 C239.5,602.42 239.5,616.43 239.5,626.73 " fill="none" id="光电引导-to-end" style="stroke: #1565C0; stroke-width: 1.0;"/><polygon fill="#1565C0" points="239.5,631.74,243.5,622.74,239.5,626.74,235.5,622.74,239.5,631.74" style="stroke: #1565C0; stroke-width: 1.0;"/><!--MD5=[d90fa38b2aa2fa9a03cf6eba676a5d1b]
+@startuml software-work-sequence
+'!include https://unpkg.com/plantuml-style-c4@latest/core.puml
+' uncomment the following line and comment the first to use locally
+!include plantuml-style-c4/core.puml
+
+(*) - -> "任务创建"
+- -> "模式切换"
+note left: 切换装备到模拟训练模式 
+if "加载往期想定？" then
+    - ->[Y] "添加部分想定"
+    - -> "编辑并存储"
+else
+    - ->[N] "创建新想定"
+    - -> "编辑并存储"
+endif
+- -> "目标初始化"
+note right: 初始化装备电子目标
+- -> "光电引导"
+- -> (*)
+
+@enduml
+
+@startuml software-work-sequence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+skinparam ComponentStyle uml2
+skinparam Shadowing false
+
+skinparam Default {
+    FontName "'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace"
+    FontColor #222222
+    FontSize  14
+    FontStyle plain
+    Shadowing false
+    TextAlignment center
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Note {
+    BackgroundColor #90A4AE
+    BorderColor #90A4AE
+    BorderThickness 1
+    FontColor White
+    Shadowing false
+    TextAlignment left
+}
+
+skinparam Note<<quit>> {
+
+    BackgroundColor #F9A825
+    BorderColor #F9A825
+}
+
+skinparam Sequence {
+    ActorBorderThickness 1
+    LifeLineBorderColor GREEN
+    ParticipantBorderThickness 0
+    Shadowing false
+
+
+    GroupBorderThickness 1
+    GroupBorderColor #1565C0
+    GroupBackgroundColor #BBDEFB
+}
+
+skinparam Activity {
+
+    StartColor #37A77C
+    EndColor #F6363F
+    AttributeFontColor white
+    AttributeFontSize  15
+    AttributeFontname  Droid Sans Mono
+
+    BackgroundColor #BBDEFB
+    BorderColor #90CAF9
+    BorderThickness 1
+
+    ArrowThickness 1
+
+
+    BarColor   #0D47A1
+
+
+    DiamondBackgroundColor   #FFE0B2
+    DiamondBorderColor    #FFCC80
+
+
+}
+
+skinparam Class {
+    BackgroundColor #E3F2FD
+    BorderColor #64B5F6
+    BorderThickness 1
+
+
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 14
+}
+
+
+
+skinparam Interface {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+    FontSize 14
+
+
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 1
+}
+
+
+
+skinparam Participant {
+    BackgroundColor #1565C0
+    BorderColor #1565C0
+    FontColor White
+    Shadowing false
+}
+
+skinparam Actor {
+    BackgroundColor #1565C0
+    BorderColor #1565C0
+    Shadowing false
+}
+
+skinparam UseCase {
+    BackgroundColor #64B5F6
+    BorderColor #64B5F6
+    Shadowing false
+    ArrowThickness 1
+    ArrowColor #1565C0
+
+    ActorBackgroundColor #1565C0
+    ActorBorderColor #0D47A1
+    ActorShadowing false
+ 
+}
+
+
+skinparam State {
+    FontSize           17
+
+    AttributeFontSize  14
+    
+    BackgroundColor    #BBDEFB
+    BorderColor        #90CAF9
+    StartColor #37A77C
+    EndColor #F6363F
+}
+
+skinparam Partition {
+    BorderColor #424242
+    BorderStyle dashed
+
+    BorderThickness 1
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Queue {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Agent {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Artifact {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Boundary {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Card {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Cloud {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Component {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Control {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Database {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Entity {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam File {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Folder {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+   
+}
+skinparam Frame {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Node {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+
+skinparam Package {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Stack {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Rectangle {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Storage {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam rectangle<<usercase>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #424242
+    BorderColor #424242
+    BorderStyle dashed
+    BackgroundColor White
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(*) - -> "任务创建"
+- -> "模式切换"
+note left: 切换装备到模拟训练模式 
+if "加载往期想定？" then
+    - ->[Y] "添加部分想定"
+    - -> "编辑并存储"
+else
+    - ->[N] "创建新想定"
+    - -> "编辑并存储"
+endif
+- -> "目标初始化"
+note right: 初始化装备电子目标
+- -> "光电引导"
+- -> (*)
+
+@enduml
+
+PlantUML version 1.2020.18(Thu Oct 01 03:40:44 CST 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>

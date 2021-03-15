@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="644px" preserveAspectRatio="none" style="width:536px;height:644px;" version="1.1" viewBox="0 0 536 644" width="536px" zoomAndPan="magnify"><defs/><g><line style="stroke: #008000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="100" x2="100" y1="39.1201" y2="605.9219"/><line style="stroke: #008000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="236" x2="236" y1="39.1201" y2="605.9219"/><line style="stroke: #008000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="337" x2="337" y1="39.1201" y2="605.9219"/><line style="stroke: #008000; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="438" x2="438" y1="39.1201" y2="605.9219"/><rect fill="#1565C0" height="33.1201" style="stroke: #1565C0; stroke-width: 0.0;" width="112" x="44" y="5"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="51" y="28.0439">模拟训练客户端</text><rect fill="#1565C0" height="33.1201" style="stroke: #1565C0; stroke-width: 0.0;" width="112" x="44" y="604.9219"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="51" y="627.9658">模拟训练客户端</text><rect fill="#1565C0" height="33.1201" style="stroke: #1565C0; stroke-width: 0.0;" width="98" x="187" y="5"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="194" y="28.0439">模拟训练服务</text><rect fill="#1565C0" height="33.1201" style="stroke: #1565C0; stroke-width: 0.0;" width="98" x="187" y="604.9219"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="194" y="627.9658">模拟训练服务</text><rect fill="#1565C0" height="33.1201" style="stroke: #1565C0; stroke-width: 0.0;" width="84" x="295" y="5"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="302" y="28.0439">数据库服务</text><rect fill="#1565C0" height="33.1201" style="stroke: #1565C0; stroke-width: 0.0;" width="84" x="295" y="604.9219"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="302" y="627.9658">数据库服务</text><rect fill="#1565C0" height="33.1201" style="stroke: #1565C0; stroke-width: 0.0;" width="98" x="389" y="5"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="396" y="28.0439">装备控制服务</text><rect fill="#1565C0" height="33.1201" style="stroke: #1565C0; stroke-width: 0.0;" width="98" x="389" y="604.9219"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="396" y="627.9658">装备控制服务</text><polygon fill="#1565C0" points="224,70.2402,234,74.2402,224,78.2402,228,74.2402" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="100" x2="230" y1="74.2402" y2="74.2402"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="107" y="69.1641">加载装备列表请求</text><polygon fill="#1565C0" points="325,103.3604,335,107.3604,325,111.3604,329,107.3604" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="236" x2="331" y1="107.3604" y2="107.3604"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="243" y="102.2842">查询请求</text><line style="stroke: #1565C0; stroke-width: 1.0;" x1="337" x2="379" y1="140.4805" y2="140.4805"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="379" x2="379" y1="140.4805" y2="153.4805"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="338" x2="379" y1="153.4805" y2="153.4805"/><polygon fill="#1565C0" points="348,149.4805,338,153.4805,348,157.4805,344,153.4805" style="stroke: #1565C0; stroke-width: 1.0;"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28" x="344" y="135.4043">查询</text><polygon fill="#1565C0" points="247,182.6006,237,186.6006,247,190.6006,243,186.6006" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="241" x2="336" y1="186.6006" y2="186.6006"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="253" y="181.5244">查询应答</text><polygon fill="#1565C0" points="111,218.7207,101,222.7207,111,226.7207,107,222.7207" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="105" x2="235" y1="222.7207" y2="222.7207"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="117" y="217.6445">加载装备列表应答</text><path d="M8,199.6006 L8,228.6006 L95,228.6006 L95,209.6006 L85,199.6006 L8,199.6006 " fill="#90A4AE" style="stroke: #90A4AE; stroke-width: 1.0;"/><path d="M85,199.6006 L85,209.6006 L95,209.6006 L85,199.6006 " fill="#90A4AE" style="stroke: #90A4AE; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="66" x="14" y="220.6445">{装备列表}</text><line style="stroke: #1565C0; stroke-width: 1.0;" x1="100" x2="142" y1="258.8408" y2="258.8408"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="142" x2="142" y1="258.8408" y2="271.8408"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="101" x2="142" y1="271.8408" y2="271.8408"/><polygon fill="#1565C0" points="111,267.8408,101,271.8408,111,275.8408,107,271.8408" style="stroke: #1565C0; stroke-width: 1.0;"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="107" y="253.7646">选择装备</text><polygon fill="#1565C0" points="224,313.521,234,317.521,224,321.521,228,317.521" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="100" x2="230" y1="317.521" y2="317.521"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="107" y="312.4448">切换装备模式请求</text><path d="M5,284.8408 L5,332.8408 L95,332.8408 L95,294.8408 L85,284.8408 L5,284.8408 " fill="#90A4AE" style="stroke: #90A4AE; stroke-width: 1.0;"/><path d="M85,284.8408 L85,294.8408 L95,294.8408 L85,284.8408 " fill="#90A4AE" style="stroke: #90A4AE; stroke-width: 1.0;"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="11" y="305.8848">{任务编号,</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="19" y="325.0049">装备列表}</text><polygon fill="#1565C0" points="426,359.2012,436,363.2012,426,367.2012,430,363.2012" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="236" x2="432" y1="363.2012" y2="363.2012"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="243" y="358.125">切换装备模式请求</text><line style="stroke: #1565C0; stroke-width: 1.0;" x1="438" x2="480" y1="396.3213" y2="396.3213"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="480" x2="480" y1="396.3213" y2="409.3213"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="439" x2="480" y1="409.3213" y2="409.3213"/><polygon fill="#1565C0" points="449,405.3213,439,409.3213,449,413.3213,445,409.3213" style="stroke: #1565C0; stroke-width: 1.0;"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="445" y="391.2451">切换装备模式</text><polygon fill="#1565C0" points="348,438.4414,338,442.4414,348,446.4414,344,442.4414" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="342" x2="437" y1="442.4414" y2="442.4414"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="354" y="437.3652">更新请求</text><line style="stroke: #1565C0; stroke-width: 1.0;" x1="337" x2="379" y1="475.5615" y2="475.5615"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="379" x2="379" y1="475.5615" y2="488.5615"/><line style="stroke: #1565C0; stroke-width: 1.0;" x1="338" x2="379" y1="488.5615" y2="488.5615"/><polygon fill="#1565C0" points="348,484.5615,338,488.5615,348,492.5615,344,488.5615" style="stroke: #1565C0; stroke-width: 1.0;"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28" x="344" y="470.4854">更新</text><polygon fill="#1565C0" points="426,517.6816,436,521.6816,426,525.6816,430,521.6816" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="337" x2="432" y1="521.6816" y2="521.6816"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="344" y="516.6055">更新应答</text><polygon fill="#1565C0" points="247,550.8018,237,554.8018,247,558.8018,243,554.8018" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="241" x2="437" y1="554.8018" y2="554.8018"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="253" y="549.7256">切换装备模式应答</text><polygon fill="#1565C0" points="111,583.9219,101,587.9219,111,591.9219,107,587.9219" style="stroke: #1565C0; stroke-width: 1.0;"/><line style="stroke: #1565C0; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="105" x2="235" y1="587.9219" y2="587.9219"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="117" y="582.8457">切换装备模式应答</text><!--MD5=[e37f1a970eb26d8d33b9f1583f7ffa5a]
+@startuml switch-mode-sequence
+
+!include plantuml-style-c4/core.puml
+
+模拟训练客户端 -> 模拟训练服务: 加载装备列表请求
+模拟训练服务 -> 数据库服务: 查询请求
+数据库服务 -> 数据库服务: 查询
+模拟训练服务 <- - 数据库服务: 查询应答
+模拟训练客户端 <- - 模拟训练服务: 加载装备列表应答
+note left: {装备列表}
+模拟训练客户端 -> 模拟训练客户端: 选择装备
+模拟训练客户端 -> 模拟训练服务: 切换装备模式请求
+note left: {任务编号,\n  装备列表}
+模拟训练服务 -> 装备控制服务: 切换装备模式请求
+装备控制服务 -> 装备控制服务: 切换装备模式
+装备控制服务 -> 数据库服务: 更新请求
+数据库服务 ->  数据库服务: 更新
+装备控制服务 <- - 数据库服务: 更新应答
+模拟训练服务 <- - 装备控制服务: 切换装备模式应答
+模拟训练客户端 <- - 模拟训练服务: 切换装备模式应答
+
+@enduml
+
+@startuml switch-mode-sequence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+skinparam ComponentStyle uml2
+skinparam Shadowing false
+
+skinparam Default {
+    FontName "'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace"
+    FontColor #222222
+    FontSize  14
+    FontStyle plain
+    Shadowing false
+    TextAlignment center
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Note {
+    BackgroundColor #90A4AE
+    BorderColor #90A4AE
+    BorderThickness 1
+    FontColor White
+    Shadowing false
+    TextAlignment left
+}
+
+skinparam Note<<quit>> {
+
+    BackgroundColor #F9A825
+    BorderColor #F9A825
+}
+
+skinparam Sequence {
+    ActorBorderThickness 1
+    LifeLineBorderColor GREEN
+    ParticipantBorderThickness 0
+    Shadowing false
+
+
+    GroupBorderThickness 1
+    GroupBorderColor #1565C0
+    GroupBackgroundColor #BBDEFB
+}
+
+skinparam Activity {
+
+    StartColor #37A77C
+    EndColor #F6363F
+    AttributeFontColor white
+    AttributeFontSize  15
+    AttributeFontname  Droid Sans Mono
+
+    BackgroundColor #BBDEFB
+    BorderColor #90CAF9
+    BorderThickness 1
+
+    ArrowThickness 1
+
+
+    BarColor   #0D47A1
+
+
+    DiamondBackgroundColor   #FFE0B2
+    DiamondBorderColor    #FFCC80
+
+
+}
+
+skinparam Class {
+    BackgroundColor #E3F2FD
+    BorderColor #64B5F6
+    BorderThickness 1
+
+
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 14
+}
+
+
+
+skinparam Interface {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+    FontSize 14
+
+
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 1
+}
+
+
+
+skinparam Participant {
+    BackgroundColor #1565C0
+    BorderColor #1565C0
+    FontColor White
+    Shadowing false
+}
+
+skinparam Actor {
+    BackgroundColor #1565C0
+    BorderColor #1565C0
+    Shadowing false
+}
+
+skinparam UseCase {
+    BackgroundColor #64B5F6
+    BorderColor #64B5F6
+    Shadowing false
+    ArrowThickness 1
+    ArrowColor #1565C0
+
+    ActorBackgroundColor #1565C0
+    ActorBorderColor #0D47A1
+    ActorShadowing false
+ 
+}
+
+
+skinparam State {
+    FontSize           17
+
+    AttributeFontSize  14
+    
+    BackgroundColor    #BBDEFB
+    BorderColor        #90CAF9
+    StartColor #37A77C
+    EndColor #F6363F
+}
+
+skinparam Partition {
+    BorderColor #424242
+    BorderStyle dashed
+
+    BorderThickness 1
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Queue {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Agent {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Artifact {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Boundary {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Card {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Cloud {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Component {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Control {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Database {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Entity {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam File {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Folder {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+   
+}
+skinparam Frame {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Node {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+
+skinparam Package {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Stack {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Rectangle {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Storage {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam rectangle<<usercase>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #424242
+    BorderColor #424242
+    BorderStyle dashed
+    BackgroundColor White
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+模拟训练客户端 -> 模拟训练服务: 加载装备列表请求
+模拟训练服务 -> 数据库服务: 查询请求
+数据库服务 -> 数据库服务: 查询
+模拟训练服务 <- - 数据库服务: 查询应答
+模拟训练客户端 <- - 模拟训练服务: 加载装备列表应答
+note left: {装备列表}
+模拟训练客户端 -> 模拟训练客户端: 选择装备
+模拟训练客户端 -> 模拟训练服务: 切换装备模式请求
+note left: {任务编号,\n  装备列表}
+模拟训练服务 -> 装备控制服务: 切换装备模式请求
+装备控制服务 -> 装备控制服务: 切换装备模式
+装备控制服务 -> 数据库服务: 更新请求
+数据库服务 ->  数据库服务: 更新
+装备控制服务 <- - 数据库服务: 更新应答
+模拟训练服务 <- - 装备控制服务: 切换装备模式应答
+模拟训练客户端 <- - 模拟训练服务: 切换装备模式应答
+
+@enduml
+
+PlantUML version 1.2020.18(Thu Oct 01 03:40:44 CST 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>

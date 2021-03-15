@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="857px" preserveAspectRatio="none" style="width:994px;height:857px;" version="1.1" viewBox="0 0 994 857" width="994px" zoomAndPan="magnify"><defs/><g><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="166" x="407.5" y="16.0439">Container Diagram of STS</text><!--MD5=[81f0c60f4f494fc3a5e3711313430e46]
+cluster sts--><rect fill="#FFFFFF" height="428.5" style="stroke: #424242; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="336" x="137" y="286.1201"/><text fill="#424242" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="254" y="306.4561">模拟训练软件</text><text fill="#424242" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="47" x="281.5" y="323.7236">[System]</text><!--MD5=[2832f3c3da3ace1dba5193a2c76b25fb]
+cluster bss--><rect fill="#FFFFFF" height="178" style="stroke: #424242; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="491" x="497" y="541.1201"/><text fill="#424242" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="691.5" y="561.4561">基础支撑服务</text><text fill="#424242" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="47" x="719" y="578.7236">[System]</text><!--MD5=[88530f965d861f7a560dac6e184d5981]
+cluster eacs--><rect fill="#FFFFFF" height="169" style="stroke: #424242; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="250" x="7" y="37.1201"/><text fill="#424242" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="153" x="55.5" y="57.4561">装备接入与控制软件</text><text fill="#424242" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="47" x="108.5" y="74.7236">[System]</text><!--MD5=[084f3bb71b059bd0c810ba2cfa605c88]
+cluster bcs--><rect fill="#FFFFFF" height="191" style="stroke: #424242; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="475" x="281" y="26.1201"/><text fill="#424242" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="467.5" y="46.4561">作战指挥服务</text><text fill="#424242" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="47" x="495" y="63.7236">[System]</text><!--MD5=[963c5476e2924e9730195f37b6d31c8c]
+entity stss--><rect fill="#1E88E5" height="96.4805" style="stroke: #1976D2; stroke-width: 1.5;" width="114" x="343" y="343.1201"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="86" x="357" y="371.4561">STS Server</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="41" x="379.5" y="388.7236">[C/C++]</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="402" y="407.4043"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="357" y="426.5244"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="357" y="426.5244">模拟训练服务</text><!--MD5=[f2bd3a282cb754d5ecab1b1c070936dd]
+entity stsc--><rect fill="#1E88E5" height="96.4805" style="stroke: #1976D2; stroke-width: 1.5;" width="114" x="230" y="602.6201"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="80" x="247" y="630.9561">STS Client</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="59" x="257.5" y="648.2236">[C/C++, Qt]</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="289" y="666.9043"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="244" y="686.0244"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="244" y="686.0244">模拟训练显控</text><!--MD5=[7468467f3b6b392f1d176d828c753b77]
+entity db--><path d="M513.5,608.1201 C513.5,598.1201 578,598.1201 578,598.1201 C578,598.1201 642.5,598.1201 642.5,608.1201 L642.5,693.6006 C642.5,703.6006 578,703.6006 578,703.6006 C578,703.6006 513.5,703.6006 513.5,693.6006 L513.5,608.1201 " fill="#9E9E9E" style="stroke: #757575; stroke-width: 1.5;"/><path d="M513.5,608.1201 C513.5,618.1201 578,618.1201 578,618.1201 C578,618.1201 642.5,618.1201 642.5,608.1201 " fill="none" style="stroke: #757575; stroke-width: 1.5;"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72" x="542" y="640.4561">Database</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="100" x="528" y="657.7236">[SQL, Java, REST]</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="580" y="676.4043"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="527.5" y="695.5244"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="105" x="527.5" y="695.5244">信息存储与管理</text><!--MD5=[634c2c2046e61ba46dce2ac7722fb8dc]
+entity hm--><rect fill="#9E9E9E" height="96.4805" style="stroke: #757575; stroke-width: 1.5;" width="139" x="677.5" y="602.6201"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="687.5" y="630.9561">Health Manager</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="64" x="715" y="648.2236">[Python 2.7]</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="749" y="666.9043"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="719" y="686.0244"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="719" y="686.0244">健康管理</text><!--MD5=[6a57aae439892c382099c816ac07b0ea]
+entity lm--><rect fill="#9E9E9E" height="96.4805" style="stroke: #757575; stroke-width: 1.5;" width="120" x="852" y="602.6201"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="100" x="862" y="630.9561">Log Manager</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="62" x="881" y="648.2236">[SQL, Java]</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="914" y="666.9043"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="884" y="686.0244"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="884" y="686.0244">日志管理</text><!--MD5=[0b4a12f4e4ffbdc3b86caee27d5a4212]
+entity eas--><rect fill="#9E9E9E" height="96.4805" style="stroke: #757575; stroke-width: 1.5;" width="217" x="23.5" y="94.1201"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="197" x="33.5" y="122.4561">Equipment Access Server</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="140" x="62" y="139.7236">[C/C++，socket，libzmq]</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="134" y="158.4043"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="89" y="177.5244"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="89" y="177.5244">装备接入服务</text><!--MD5=[32f4f36fb409914b547c443e7606398f]
+entity ccs--><rect fill="#9E9E9E" height="118.332" style="stroke: #757575; stroke-width: 1.5;" width="202" x="538" y="83.1201"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="178" x="548" y="111.4561">Coordinated Command</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="50" x="614" y="133.3076">Server</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="145" x="566.5" y="150.5752">[C/C++，libzmq，bitsflow]</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="641" y="169.2559"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="596" y="188.376"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="596" y="188.376">协同指挥服务</text><!--MD5=[359ea5285f16dc2b8721c9903f50c879]
+entity eccs--><rect fill="#9E9E9E" height="118.332" style="stroke: #757575; stroke-width: 1.5;" width="206" x="297" y="83.1201"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="182" x="307" y="111.4561">Equipment Coordinated</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="111" x="344.5" y="133.3076">Control Server</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="86" x="357" y="150.5752">[C/C++，gRPC]</text><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="402" y="169.2559"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="342" y="188.376"/><text fill="#FFFFFF" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="120" x="342" y="188.376">装备协同控制服务</text><!--MD5=[1dece7aae00c5d09005184d17395b8df]
+link stss to stsc--><path d="M342.53,395.1501 C291.73,401.2401 220.38,418.8701 185,469.1201 C155.59,510.8901 190.14,561.8201 226.77,598.9201 " fill="none" id="stss-to-stsc" style="stroke: #616161; stroke-width: 1.0;"/><polygon fill="#616161" points="230.32,602.4701,226.7845,593.2777,226.7845,598.9346,221.1276,598.9346,230.32,602.4701" style="stroke: #616161; stroke-width: 1.0;"/><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="135" x="186" y="486.1641">发布联合训练方案、</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="223.5" y="505.2842">态势信息</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="102" x="202.5" y="522.1123">[ZeroMQ Pub-Sub]</text><!--MD5=[1b7648e40a9008509b24192bb0aba6cc]
+link stsc to stss--><path d="M305.6,602.5101 C320.3,565.8801 341.66,513.9201 362,469.1201 C365.74,460.8701 369.85,452.2001 373.94,443.7801 " fill="none" id="stsc-to-stss" style="stroke: #616161; stroke-width: 1.0;"/><polygon fill="#616161" points="376.2,439.1301,368.6698,445.4781,374.0155,443.6277,375.8659,448.9733,376.2,439.1301" style="stroke: #616161; stroke-width: 1.0;"/><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="363" y="495.6641">使用后端服务</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="32" x="392" y="512.4922">[RPC]</text><!--MD5=[70dcdfc23b15c1913f18b4a8e81a8ad8]
+reverse link eccs to stss--><path d="M400,206.4701 C400,249.0801 400,304.3101 400,343.0401 " fill="none" id="eccs-backto-stss" style="stroke: #616161; stroke-width: 1.0;"/><polygon fill="#616161" points="400,201.3401,396,210.3401,400,206.3401,404,210.3401,400,201.3401" style="stroke: #616161; stroke-width: 1.0;"/><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="401" y="250.1641">控制装备</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="32" x="415" y="266.9922">[RPC]</text><!--MD5=[decfbeb54186915aefc867a685b6e5b7]
+link eas to stss--><path d="M161.29,190.1301 C178.36,215.4401 201.35,246.2801 226,270.1201 C259.7,302.7101 303.1,332.6601 338.13,354.4901 " fill="none" id="eas-to-stss" style="stroke: #616161; stroke-width: 1.0;"/><polygon fill="#616161" points="342.79,357.3801,337.2459,349.2399,338.5396,354.7469,333.0327,356.0406,342.79,357.3801" style="stroke: #616161; stroke-width: 1.0;"/><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="227" y="250.1641">发布装备信息</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="14" x="317" y="250.3838">、</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="331" y="250.1641">目标信息</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="102" x="258" y="266.9922">[ZeroMQ Pub-Sub]</text><!--MD5=[b32db623a4ed9d46dcdb98fe61a6756e]
+link stss to db--><path d="M436.45,439.3601 C443.72,449.1101 451.21,459.3701 458,469.1201 C474.91,493.4001 477.72,500.4101 494,525.1201 C508.86,547.6801 525.45,572.3701 539.93,593.7701 " fill="none" id="stss-to-db" style="stroke: #616161; stroke-width: 1.0;"/><polygon fill="#616161" points="542.8,598.0001,541.0589,588.3064,539.9935,593.862,534.4379,592.7967,542.8,598.0001" style="stroke: #616161; stroke-width: 1.0;"/><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="495" y="495.6641">存取文件</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="37" x="506.5" y="512.4922">[HTTP]</text><!--MD5=[b32db623a4ed9d46dcdb98fe61a6756e]
+link stss to db--><path d="M457.05,404.5001 C492.62,415.3401 536.04,434.9001 560,469.1201 C584.98,504.8001 588.22,554.6001 585.93,592.8601 " fill="none" id="stss-to-db-1" style="stroke: #616161; stroke-width: 1.0;"/><polygon fill="#616161" points="585.58,597.9401,590.1863,589.2348,585.9221,592.9518,582.2051,588.6876,585.58,597.9401" style="stroke: #616161; stroke-width: 1.0;"/><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="582" y="495.6641">存取数据</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="41" x="591.5" y="512.4922">[ODBC]</text><!--MD5=[709b17f32bb3220f0e4163c4e049f6d1]
+link stss to hm--><path d="M457.24,397.1101 C512.33,404.5801 595.27,423.1401 651,469.1201 C691.25,502.3301 716.93,556.9301 731.5,597.4001 " fill="none" id="stss-to-hm" style="stroke: #616161; stroke-width: 1.0;"/><polygon fill="#616161" points="733.23,602.2601,733.9926,592.4408,731.5592,597.5475,726.4525,595.1141,733.23,602.2601" style="stroke: #616161; stroke-width: 1.0;"/><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="698" y="495.6641">上报心跳</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="37" x="709.5" y="512.4922">[HTTP]</text><!--MD5=[e2f5567481a96180cba2e8419684c45e]
+link stss to lm--><path d="M457.02,394.4501 C532.09,399.6001 666.34,416.1201 767,469.1201 C820.71,497.4001 861.5,555.1101 885.93,597.7001 " fill="none" id="stss-to-lm" style="stroke: #616161; stroke-width: 1.0;"/><polygon fill="#616161" points="888.54,602.3001,887.5651,592.4996,886.067,597.9545,880.6121,596.4564,888.54,602.3001" style="stroke: #616161; stroke-width: 1.0;"/><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="835" y="495.6641">写入日志</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="37" x="846.5" y="512.4922">[HTTP]</text><!--MD5=[14bfdc8788b11501486d657a221c8d68]
+link ccs to stss--><path d="M582.66,201.3401 C542.15,243.2101 488.06,299.1201 449.26,339.2101 " fill="none" id="ccs-to-stss" style="stroke: #616161; stroke-width: 1.0;"/><polygon fill="#616161" points="445.56,343.0401,454.6939,339.3562,449.0378,339.4478,448.9462,333.7917,445.56,343.0401" style="stroke: #616161; stroke-width: 1.0;"/><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="120" x="548" y="250.1641">发送联合训练方案</text><text fill="#616161" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="102" x="557" y="266.9922">[ZeroMQ Req-Rep]</text><rect fill="#DDDDDD" height="109.6006" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.0;" width="215" x="757" y="732.1201"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="38" x="767" y="755.1641">Color</text><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="33" x="849" y="755.1641">Type</text><rect fill="#1976D2" height="19.1201" style="stroke: none; stroke-width: 1.0;" width="82" x="763" y="758.2402"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="775" y="774.2842"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="44" x="849" y="774.2842">system</text><rect fill="#757575" height="19.1201" style="stroke: none; stroke-width: 1.0;" width="82" x="763" y="777.3604"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="787" y="793.4043"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="849" y="793.4043">external system</text><rect fill="#1E88E5" height="19.1201" style="stroke: none; stroke-width: 1.0;" width="82" x="763" y="796.4805"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="775" y="812.5244"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="59" x="849" y="812.5244">container</text><rect fill="#9E9E9E" height="19.1201" style="stroke: none; stroke-width: 1.0;" width="82" x="763" y="815.6006"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="775" y="831.6445"/><text fill="#222222" font-family="'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="113" x="849" y="831.6445">external container</text><line style="stroke: #222222; stroke-width: 1.0;" x1="763" x2="966" y1="739.1201" y2="739.1201"/><line style="stroke: #222222; stroke-width: 1.0;" x1="763" x2="966" y1="758.2402" y2="758.2402"/><line style="stroke: #222222; stroke-width: 1.0;" x1="763" x2="966" y1="777.3604" y2="777.3604"/><line style="stroke: #222222; stroke-width: 1.0;" x1="763" x2="966" y1="796.4805" y2="796.4805"/><line style="stroke: #222222; stroke-width: 1.0;" x1="763" x2="966" y1="815.6006" y2="815.6006"/><line style="stroke: #222222; stroke-width: 1.0;" x1="763" x2="966" y1="834.7207" y2="834.7207"/><line style="stroke: #222222; stroke-width: 1.0;" x1="763" x2="763" y1="739.1201" y2="834.7207"/><line style="stroke: #222222; stroke-width: 1.0;" x1="845" x2="845" y1="739.1201" y2="834.7207"/><line style="stroke: #222222; stroke-width: 1.0;" x1="966" x2="966" y1="739.1201" y2="834.7207"/><!--MD5=[3bedcd536b57252dcaa7c319fa68c466]
+@startuml sts-container
+
+' !include https://unpkg.com/plantuml-style-c4@latest/c4_container.puml
+' uncomment the following line and comment the first to use locally
+!include plantuml-style-c4/c4_container.puml
+
+LAYOUT_TOP_DOWN
+' LAYOUT_AS_SKETCH()
+LAYOUT_WITH_LEGEND()
+
+title Container Diagram of STS
+
+System_Boundary(sts, "模拟训练软件") {
+    Container(stss, "STS Server", "C/C++", "**模拟训练服务**")
+    Container(stsc, "STS Client", "C/C++, Qt", "**模拟训练显控**")
+
+    Rel(stss, stsc, "**发布联合训练方案、态势信息**", "ZeroMQ Pub-Sub")
+    Rel(stsc, stss, "**使用后端服务**", "RPC")
+}
+
+System_Boundary(bss, "基础支撑服务") {
+    ContainerDb_Ext(db, "Database", "SQL, Java, REST", "**信息存储与管理**")
+    Container_Ext(hm, "Health Manager", "Python 2.7", "**健康管理**")
+    Container_Ext(lm, "Log Manager", "SQL, Java", "**日志管理**")
+}
+
+System_Boundary(eacs, "装备接入与控制软件") {
+    Container_Ext(eas, "Equipment Access Server", "C/C++，socket，libzmq", "**装备接入服务**")
+}
+
+System_Boundary(bcs, "作战指挥服务") {
+    Container_Ext(ccs, "Coordinated Command Server", "C/C++，libzmq，bitsflow", "**协同指挥服务**")
+    Container_Ext(eccs, "Equipment Coordinated Control Server", "C/C++，gRPC", "**装备协同控制服务**")
+}
+
+Rel_U(stss, eccs, "**控制装备**", "RPC")
+
+Rel(eas, stss, "**发布装备信息**、**目标信息**", "ZeroMQ Pub-Sub")
+
+Rel(stss, db, "**存取文件**", "HTTP")
+Rel(stss, db, "**存取数据**", "ODBC")
+
+Rel(stss, hm, "**上报心跳**", "HTTP")
+
+Rel(stss, lm, "**写入日志**", "HTTP")
+
+Rel(ccs, stss, "**发送联合训练方案**", "ZeroMQ Req-Rep")
+
+@enduml
+
+@startuml sts-container
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+skinparam ComponentStyle uml2
+skinparam Shadowing false
+
+skinparam Default {
+    FontName "'Input Mono','Microsoft YaHei Mono',Menlo, Monaco, 'Courier New', monospace"
+    FontColor #222222
+    FontSize  14
+    FontStyle plain
+    Shadowing false
+    TextAlignment center
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Note {
+    BackgroundColor #90A4AE
+    BorderColor #90A4AE
+    BorderThickness 1
+    FontColor White
+    Shadowing false
+    TextAlignment left
+}
+
+skinparam Note<<quit>> {
+
+    BackgroundColor #F9A825
+    BorderColor #F9A825
+}
+
+skinparam Sequence {
+    ActorBorderThickness 1
+    LifeLineBorderColor GREEN
+    ParticipantBorderThickness 0
+    Shadowing false
+
+
+    GroupBorderThickness 1
+    GroupBorderColor #1565C0
+    GroupBackgroundColor #BBDEFB
+}
+
+skinparam Activity {
+
+    StartColor #37A77C
+    EndColor #F6363F
+    AttributeFontColor white
+    AttributeFontSize  15
+    AttributeFontname  Droid Sans Mono
+
+    BackgroundColor #BBDEFB
+    BorderColor #90CAF9
+    BorderThickness 1
+
+    ArrowThickness 1
+
+
+    BarColor   #0D47A1
+
+
+    DiamondBackgroundColor   #FFE0B2
+    DiamondBorderColor    #FFCC80
+
+
+}
+
+skinparam Class {
+    BackgroundColor #E3F2FD
+    BorderColor #64B5F6
+    BorderThickness 1
+
+
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 14
+}
+
+
+
+skinparam Interface {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+    FontSize 14
+
+
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 1
+}
+
+
+
+skinparam Participant {
+    BackgroundColor #1565C0
+    BorderColor #1565C0
+    FontColor White
+    Shadowing false
+}
+
+skinparam Actor {
+    BackgroundColor #1565C0
+    BorderColor #1565C0
+    Shadowing false
+}
+
+skinparam UseCase {
+    BackgroundColor #64B5F6
+    BorderColor #64B5F6
+    Shadowing false
+    ArrowThickness 1
+    ArrowColor #1565C0
+
+    ActorBackgroundColor #1565C0
+    ActorBorderColor #0D47A1
+    ActorShadowing false
+ 
+}
+
+
+skinparam State {
+    FontSize           17
+
+    AttributeFontSize  14
+    
+    BackgroundColor    #BBDEFB
+    BorderColor        #90CAF9
+    StartColor #37A77C
+    EndColor #F6363F
+}
+
+skinparam Partition {
+    BorderColor #424242
+    BorderStyle dashed
+
+    BorderThickness 1
+}
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Queue {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Agent {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Artifact {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Boundary {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Card {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Cloud {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Component {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Control {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Database {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Entity {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam File {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Folder {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+   
+}
+skinparam Frame {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Node {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+
+skinparam Package {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+skinparam Stack {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Rectangle {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam Storage {
+    BackgroundColor #E3F2FD
+    BorderColor #424242
+}
+
+skinparam rectangle<<usercase>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #424242
+    BorderColor #424242
+    BorderStyle dashed
+    BackgroundColor White
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #616161
+    FontColor #616161
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #424242
+    BorderColor #424242
+    BorderStyle dashed
+    BackgroundColor White
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam actor<<person>> {
+  BorderColor #0D47A1
+  BackgroundColor #1565C0
+}
+
+skinparam actor<<internal_person>> {
+  BorderColor #424242
+  BackgroundColor #616161
+}
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1565C0
+    BorderColor #0D47A1
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #616161
+    BorderColor #424242
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1976D2
+    BorderColor #1565C0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #757575
+    BorderColor #616161
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1976D2
+    BorderColor #1565C0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #757575
+    BorderColor #616161
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1E88E5
+    BorderColor #1976D2
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1E88E5
+    BorderColor #1976D2
+}
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #9E9E9E
+    BorderColor #757575
+}
+
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #9E9E9E
+    BorderColor #757575
+}
+
+
+
+
+
+
+
+
+
+
+
+top to bottom direction
+hide stereotype
+legend right
+|= Color          |= Type |
+|<#1976D2>   | system |
+|<#757575>      | external system |
+|<#1E88E5>   | container |
+|<#9E9E9E>   | external container |
+endlegend
+
+title Container Diagram of STS
+
+rectangle "==模拟训练软件\n<size:12>[System]</size>" <<boundary>> as sts {
+    rectangle "==STS Server\n//<size:12>[C/C++]</size>//\n\n **模拟训练服务**" <<container>> as stss
+    rectangle "==STS Client\n//<size:12>[C/C++, Qt]</size>//\n\n **模拟训练显控**" <<container>> as stsc
+
+    stss - -> stsc : "===**发布联合训练方案、态势信息**\n//<size:12>[ZeroMQ Pub-Sub]</size>//"
+    stsc - -> stss : "===**使用后端服务**\n//<size:12>[RPC]</size>//"
+}
+
+rectangle "==基础支撑服务\n<size:12>[System]</size>" <<boundary>> as bss {
+    database "==Database\n//<size:12>[SQL, Java, REST]</size>//\n\n **信息存储与管理**" <<external_container>> as db
+    rectangle "==Health Manager\n//<size:12>[Python 2.7]</size>//\n\n **健康管理**" <<external_container>> as hm
+    rectangle "==Log Manager\n//<size:12>[SQL, Java]</size>//\n\n **日志管理**" <<external_container>> as lm
+}
+
+rectangle "==装备接入与控制软件\n<size:12>[System]</size>" <<boundary>> as eacs {
+    rectangle "==Equipment Access Server\n//<size:12>[C/C++，socket，libzmq]</size>//\n\n **装备接入服务**" <<external_container>> as eas
+}
+
+rectangle "==作战指挥服务\n<size:12>[System]</size>" <<boundary>> as bcs {
+    rectangle "==Coordinated Command Server\n//<size:12>[C/C++，libzmq，bitsflow]</size>//\n\n **协同指挥服务**" <<external_container>> as ccs
+    rectangle "==Equipment Coordinated Control Server\n//<size:12>[C/C++，gRPC]</size>//\n\n **装备协同控制服务**" <<external_container>> as eccs
+}
+
+stss -UP-> eccs : "===**控制装备**\n//<size:12>[RPC]</size>//"
+
+eas - -> stss : "===**发布装备信息**、**目标信息**\n//<size:12>[ZeroMQ Pub-Sub]</size>//"
+
+stss - -> db : "===**存取文件**\n//<size:12>[HTTP]</size>//"
+stss - -> db : "===**存取数据**\n//<size:12>[ODBC]</size>//"
+
+stss - -> hm : "===**上报心跳**\n//<size:12>[HTTP]</size>//"
+
+stss - -> lm : "===**写入日志**\n//<size:12>[HTTP]</size>//"
+
+ccs - -> stss : "===**发送联合训练方案**\n//<size:12>[ZeroMQ Req-Rep]</size>//"
+
+@enduml
+
+PlantUML version 1.2020.18(Thu Oct 01 03:40:44 CST 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
